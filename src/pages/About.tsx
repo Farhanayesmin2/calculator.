@@ -28,7 +28,7 @@ function About() {
           <h2>Our Calculators</h2>
           <ul>
             <li>
-              <strong>Biradial Horn Calculator:</strong> For audio professionals
+              <strong>Biradial Horn Design Calculator:</strong> For audio professionals
               designing speaker systems
             </li>
             <li>

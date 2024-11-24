@@ -35,7 +35,7 @@ function BiradialCalculator() {
       <div className="bg-gray-800/50 rounded-xl p-8 backdrop-blur-sm border border-gray-700">
         <div className="flex items-center gap-3 mb-6">
           <Calculator className="h-8 w-8 text-blue-500" />
-          <h1 className="text-3xl font-bold">Biradial Horn Calculator</h1>
+          <h1 className="text-3xl font-bold">Biradial Horn Design Calculator</h1>
         </div>
 
         <div className="grid gap-6 mb-8">

@@ -22,7 +22,7 @@ function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>
                 <Link to="/biradial" className="hover:text-white transition-colors">
-                  Biradial Horn Calculator
+                  Biradial Horn Design Calculator
                 </Link>
               </li>
               <li>
